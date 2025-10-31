@@ -17,8 +17,20 @@ A full-stack productivity app with secure authentication, category/tag support, 
 
 **Setup**
 
-**Backend**
+## 📦 Setup
+
+###  Backend
+
 ```bash
 cd my-backend
 npm install
 node server.js
+```
+
+###  Frontend
+
+```bash
+cd my-frontend
+npm install
+npm start
+```
